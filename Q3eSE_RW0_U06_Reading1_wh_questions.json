@@ -1,0 +1,48 @@
+
+
+{
+  "title": "Q3eSE_RW0_U06_Reading1",
+  "sentences": [
+{
+      "speaker": "Narrator:",
+      "keyWord": "",
+      "definition": "",
+      "english": "Q3eSE_RW0_U06_Reading1",
+      "arabic": "Q3eSE_RW0_U06_Reading1",
+      "refer_to": "",
+      "back_to": "",
+      "audio": "assets/audio/Q3eSE_RW0_U06_Reading1.mp3",
+      "audioQuestion": "What is the main idea of the reading?",
+      "answer": "With hard work, a change in behaviour can become a new habit.",
+      "Image": ""
+    },
+       
+    {
+      "speaker": "Narrator:",
+      "keyWord": "",
+      "definition": "",
+      "english": "For example, maybe you eat too much junk food.",
+      "arabic": "على سبيل المثال، ربما أنت تأكل الكثير من  الأكل غير الصحي.",
+      "refer_to": "",
+      "back_to": "",
+      "audio": "assets/audio/wh_question.mp3",
+      "audioQuestion": "Few people are able to change their bad habits. Why?",
+      "answer": "Because bad habits are very hard to change.",
+      "Image": ""
+    },
+    {
+      "speaker": "Narrator:",
+      "keyWord": "",
+      "definition": "",
+      "english": "Everyone has a few unhealthy habits. For example, maybe you eat too much junk food. Maybe you get too little sleep, or you never exercise. You know these habits aren’t good for you. You should exercise more often, but you don’t. Why? Because bad habits are very hard to change. ",
+      "arabic": "الجميع لديه بعض العادات غير الصحية.",
+      "refer_to": "",
+      "back_to": "",
+      "audio": "assets/audio/wh_question2.mp3",
+      "audioQuestion": "What are other examples of bad habits?",
+      "answer": "Some people smoke cigarettes.  Some people never exercise.",
+      "Image": ""
+    }
+    
+  ]
+}

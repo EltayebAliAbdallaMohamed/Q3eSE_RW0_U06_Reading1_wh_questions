@@ -1,0 +1,62 @@
+
+
+{
+  "title": "Q3eSE_RW0_U06_Reading1",
+  "sentences": [
+
+    {
+      "speaker": "Narrator:",
+      "keyWord": "",
+      "definition": "",
+      "english": "Everyone has a few unhealthy habits.",
+      "arabic": "الجميع لديه بعض العادات غير الصحية.",
+      "refer_to": "",
+      "back_to": "",
+      "audio": "assets/audio/Everyone has a few unhealthy habits.mp3",
+      "audioQuestion": "",
+      "answer": "",
+      "Image": ""
+    },
+   
+    {
+      "speaker": "Narrator:",
+      "keyWord": "",
+      "definition": "",
+      "english": "For example, maybe you eat too much junk food.",
+      "arabic": "على سبيل المثال، ربما أنت تأكل الكثير من  الأكل غير الصحي.",
+      "refer_to": "",
+      "back_to": "",
+      "audio": "assets/audio/For example, maybe you eat too much junk food.mp3",
+      "audioQuestion": "",
+      "answer": "",
+      "Image": ""
+    },
+    {
+      "speaker": "Narrator:",
+      "keyWord": "",
+      "definition": "",
+      "english": "For example",
+      "arabic": "على سبيل المثال",
+      "refer_to": "",
+      "back_to": "",
+      "audio": "assets/audio/For example.mp3",
+      "audioQuestion": "",
+      "answer": "",
+      "Image": ""
+    },
+    {
+      "speaker": "Narrator:",
+      "keyWord": "",
+      "definition": "food that is quick to prepare but is bad for your health.",
+      "english": "maybe you eat too much junk food.",
+      "arabic": "قد تكون تتناول الكثير من طعام غير صحي .",
+      "refer_to": "",
+      "back_to": "",
+      "audio": "assets/audio/maybe you eat too much junk food.mp3",
+      "audioQuestion": "",
+      "answer": "",
+      "Image": "assets/images/junk_food.webp"
+    }
+    
+  ]
+}
